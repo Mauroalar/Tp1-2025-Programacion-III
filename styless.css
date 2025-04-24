@@ -17,3 +17,7 @@ div{
     border-radius: 8px 30px;
     border-left: 5px solid #222;
 }
+
+body{
+    background-color: rgb(102, 134, 134);
+}
