@@ -32,9 +32,9 @@ p {
     text-align: left;
 }
 .titulo {  
-    font-size: 80px; /* Ajusta el tamaño de la fuente aquí */  
+    font-size: 88px; /* Ajusta el tamaño de la fuente aquí */  
     color: #333; /* Opcional: Cambia el color del texto */  
-    text-align: right; /* Opcional: Centra el texto */  
+    text-align: center; /* Opcional: Centra el texto */  
 }  
 h1 {
     color:rgb(15, 15, 53);
