@@ -6,6 +6,15 @@
 }
 
 .imagen {
-    width: 500px;
+    width: 650px;
     height: auto;
+}
+
+body {
+    background-color: rgb(231, 184, 63);
+}
+h1 {
+    color:rgb(15, 15, 53);
+    text-align: center;
+    padding-top: 15px;
 }
